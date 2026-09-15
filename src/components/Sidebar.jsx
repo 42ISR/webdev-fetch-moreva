@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom"
+
 const Sidebar = () => {
     return (
         <aside className="sidebar">
